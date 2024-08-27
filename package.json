@@ -1,0 +1,12 @@
+{
+  "name": "basketballolympics",
+  "version": "1.0.0",
+  "description": "Simulacija kosarkaskog turnira",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "main.js"
+  },
+  "author": "Marija",
+  "license": "ISC"
+}
